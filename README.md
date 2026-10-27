@@ -32,11 +32,11 @@ K‑POP音乐分享社区 | K‑POP Music Sharing Community
 - 路由：`@ohos.router`
 
 ### 📂 简要目录
-entry/src/main/ets/
-├── pages/          # 全部业务页面
-├── components/     # 通用 UI 组件
-├── model/          # 数据模型
-└── app.ets         # 全局状态与静态演示数据
+- entry/src/main/ets/
+- ├── pages/          # 全部业务页面
+- ├── components/     # 通用 UI 组件
+- ├── model/          # 数据模型
+- └── app.ets         # 全局状态与静态演示数据
 
 ### 🚀 运行方式
 1. DevEco Studio打开项目根目录
