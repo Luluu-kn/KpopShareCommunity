@@ -17,12 +17,26 @@ K‑POP音乐分享社区 | K‑POP Music Sharing Community
 
 ### ✨ 主要功能
 - 注册、登录，本地账号存储
+- <img width="494" height="1027" alt="image" src="https://github.com/user-attachments/assets/a2a3ddb9-ae48-4dc1-834f-710698c98428" />
+
 - 首页轮播、歌曲推荐
+- <img width="374" height="680" alt="image" src="https://github.com/user-attachments/assets/d301ff2e-c68c-4e63-8953-9525b5f57cf2" />
+
 - 艺人关键词搜索
+- <img width="376" height="674" alt="image" src="https://github.com/user-attachments/assets/d58240aa-920c-4a15-b1fe-343b6ca2fda3" />
+
 - 随机发现歌曲
+- <img width="426" height="908" alt="image" src="https://github.com/user-attachments/assets/7811acc2-3c48-432e-ad64-ceb557710e49" />
+
 - 歌曲收藏与取消收藏
+- <img width="363" height="764" alt="image" src="https://github.com/user-attachments/assets/e8bc1835-f615-4618-bfcd-a192afef58d2" />
+
 - 个人中心，编辑昵称与签名
+- <img width="358" height="677" alt="image" src="https://github.com/user-attachments/assets/9d7376cc-469b-4de3-9927-3066971c1fd5" />
+
 - 底部Tab导航：首页 / 发现 / 收藏 / 我的
+- <img width="238" height="50" alt="image" src="https://github.com/user-attachments/assets/0a324563-3c0c-44f8-a24e-5a43ea0ba65d" />
+
 
 ### 🛠 技术栈
 - 语言：ArkTS
