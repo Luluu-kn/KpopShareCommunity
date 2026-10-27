@@ -1,0 +1,16 @@
+{
+  "src": [
+    "pages/login",
+    "pages/Index",
+    "pages/register",
+    "pages/discover",
+    "pages/editProfile",
+    "pages/favorite",
+    "pages/profile",
+    "pages/search"
+  ],
+  "window": {
+    "designWidth": 750,
+    "autoDesignWidth": false
+  }
+}
